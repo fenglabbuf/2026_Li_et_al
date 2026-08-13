@@ -1,6 +1,8 @@
 # 2026_Li_et_al
 #### Scripts for:<br/>
-#### Reduced Expression of BEX Genes in Alzheimer's Disease<br/>
+#### Reduced expression of Brain Expressed X-linked genes in Alzheimer’s disease<br/>
+<br/>
+DOI:10.1177/13872877261471446<br/>
 <br/>
 Authors:<br/>
 Li Li<sup>1</sup>, Eliana Kenner<sup>1</sup>, Lei Wan<sup>1</sup>, Zhen Yan<sup>1,2</sup>, Jian Feng<sup>1,2#</sup><br/>
